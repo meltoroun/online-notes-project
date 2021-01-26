@@ -1,0 +1,13 @@
+{% extends "online_notes/base.html" %}
+
+{% block page_header %}
+  <div class="jumbotron">
+    <h1 class="display-3">Make more notes.</h1>
+
+    <p class="lead">Connecting you with notes. Powerful and fast.</p>
+      <p class="lead">Study project.</p>
+
+    <a class="btn btn-lg btn-primary" href="{% url 'users:register' %}"
+        role="button">Register &raquo;</a>
+  </div>
+{% endblock page_header %}
