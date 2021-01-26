@@ -3,4 +3,4 @@ Django web site for notes using bootstrap4 design.
 My study project for deploy.
 based on Python Crash Course
 
-![alt](screenshots/siteview.png)
+!(screenshots/siteview.png)
